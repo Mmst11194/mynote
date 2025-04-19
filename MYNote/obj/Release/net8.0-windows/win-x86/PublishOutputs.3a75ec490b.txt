@@ -1,0 +1,7 @@
+C:\Users\Muhammed Said\Desktop\MYNote\MYNote.pdb
+C:\Users\Muhammed Said\Desktop\MYNote\D3DCompiler_47_cor3.dll
+C:\Users\Muhammed Said\Desktop\MYNote\PenImc_cor3.dll
+C:\Users\Muhammed Said\Desktop\MYNote\PresentationNative_cor3.dll
+C:\Users\Muhammed Said\Desktop\MYNote\vcruntime140_cor3.dll
+C:\Users\Muhammed Said\Desktop\MYNote\wpfgfx_cor3.dll
+C:\Users\Muhammed Said\Desktop\MYNote\MYNote.exe

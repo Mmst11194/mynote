@@ -1,0 +1,17 @@
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\bin\Release\net8.0-windows\MYNote.exe
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\bin\Release\net8.0-windows\MYNote.deps.json
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\bin\Release\net8.0-windows\MYNote.runtimeconfig.json
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\bin\Release\net8.0-windows\MYNote.dll
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\bin\Release\net8.0-windows\MYNote.pdb
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\obj\Release\net8.0-windows\MYNote.Form1.resources
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\obj\Release\net8.0-windows\MYNote.Resources.resources
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\obj\Release\net8.0-windows\MYNote.vbproj.GenerateResource.cache
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\obj\Release\net8.0-windows\MYNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\obj\Release\net8.0-windows\MYNote.AssemblyInfoInputs.cache
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\obj\Release\net8.0-windows\MYNote.AssemblyInfo.vb
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\obj\Release\net8.0-windows\MYNote.vbproj.CoreCompileInputs.cache
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\obj\Release\net8.0-windows\MYNote.dll
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\obj\Release\net8.0-windows\refint\MYNote.dll
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\obj\Release\net8.0-windows\MYNote.pdb
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\obj\Release\net8.0-windows\MYNote.genruntimeconfig.cache
+C:\Users\Muhammed Said\Documents\MYNote\MYNote\obj\Release\net8.0-windows\ref\MYNote.dll

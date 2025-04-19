@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammed Said\\Documents\\MYNote\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36DC7420-81F4-438B-BBAA-394A08154EA1}|MYNote\\MYNote.vbproj|c:\\users\\muhammed said\\documents\\mynote\\mynote\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{36DC7420-81F4-438B-BBAA-394A08154EA1}|MYNote\\MYNote.vbproj|solutionrelative:mynote\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DC7420-81F4-438B-BBAA-394A08154EA1}|MYNote\\MYNote.vbproj|c:\\users\\muhammed said\\documents\\mynote\\mynote\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{36DC7420-81F4-438B-BBAA-394A08154EA1}|MYNote\\MYNote.vbproj|solutionrelative:mynote\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Muhammed Said\\Documents\\MYNote\\MYNote\\Form1.vb",
+              "RelativeDocumentMoniker": "MYNote\\Form1.vb",
+              "ToolTip": "C:\\Users\\Muhammed Said\\Documents\\MYNote\\MYNote\\Form1.vb [Tasar\u0131m]",
+              "RelativeToolTip": "MYNote\\Form1.vb [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-21T19:00:56.385Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Muhammed Said\\Documents\\MYNote\\MYNote\\Form1.vb",
+              "RelativeDocumentMoniker": "MYNote\\Form1.vb",
+              "ToolTip": "C:\\Users\\Muhammed Said\\Documents\\MYNote\\MYNote\\Form1.vb",
+              "RelativeToolTip": "MYNote\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-21T18:57:25.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

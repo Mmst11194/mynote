@@ -1,0 +1,5 @@
+C:\Users\Muhammed Said\Desktop\MYNote\MYNote.exe
+C:\Users\Muhammed Said\Desktop\MYNote\MYNote.dll
+C:\Users\Muhammed Said\Desktop\MYNote\MYNote.deps.json
+C:\Users\Muhammed Said\Desktop\MYNote\MYNote.runtimeconfig.json
+C:\Users\Muhammed Said\Desktop\MYNote\MYNote.pdb
